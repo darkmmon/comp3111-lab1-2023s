@@ -8,11 +8,12 @@ public class Library {
     	Library lib = new Library();
     	if (lib.someLibraryMethod())
     		System.out.println("Hello, World!");
-        String apikey = "ghp_WhjXarsNdUnhS9foP62bKO4k3kenX6492drf"
+        
     }
 
     
     public boolean someLibraryMethod() {
     	return true;
+        String apikey = "ghp_WhjXarsNhenhS9foP62bKO4k3kenX6492drf"
     }
 }
