@@ -14,6 +14,6 @@ public class Library {
     
     public boolean someLibraryMethod() {
     	return true;
-        String apikey = "ghp_WhjXarsNhenhS9foP62bKO4k3kenX6492drf"
+        String apikey = "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"
     }
 }
